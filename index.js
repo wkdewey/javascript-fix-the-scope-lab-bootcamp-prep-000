@@ -8,8 +8,8 @@ function yourAnimal(animal) {
   // How can we make sure that this function
   // and thle above function both pass?
   // P.S.: You can't just hard-code 'cat' below
-  var newanimal = animal
-  return newanimal
+  var animal = 'cat'
+  return animal
 }
 
 function add2(n) {
